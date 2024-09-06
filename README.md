@@ -20,8 +20,8 @@ Welcome to the URL Shortener project! This is a simple and efficient URL shorten
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/url-shortener.git
-    cd url-shortener
+    git clone https://github.com/Ashish1Prajapati/url-shortner.git
+    cd url-shortner
     ```
 
 2. **Install Dependencies**
@@ -91,7 +91,6 @@ Welcome to the URL Shortener project! This is a simple and efficient URL shorten
 - `routes/`: Contains route definitions.
 - `models/`: Contains Mongoose models.
 - `controllers/`: Contains business logic.
-- `public/`: Contains static files.
 
 ## Contributing
 
